@@ -13,3 +13,18 @@ D:\__MyPrograms\C#\LearnNet\TcpServerAsync\obj\Debug\net6.0\refint\TcpServerAsyn
 D:\__MyPrograms\C#\LearnNet\TcpServerAsync\obj\Debug\net6.0\TcpServerAsync.pdb
 D:\__MyPrograms\C#\LearnNet\TcpServerAsync\obj\Debug\net6.0\TcpServerAsync.genruntimeconfig.cache
 D:\__MyPrograms\C#\LearnNet\TcpServerAsync\obj\Debug\net6.0\ref\TcpServerAsync.dll
+D:\__MyPrograms\__Repos\__MyRepos\Unity Net Demo\Dotnet Server\TcpServerAsync\bin\Debug\net6.0\TcpServerAsync.exe
+D:\__MyPrograms\__Repos\__MyRepos\Unity Net Demo\Dotnet Server\TcpServerAsync\bin\Debug\net6.0\TcpServerAsync.deps.json
+D:\__MyPrograms\__Repos\__MyRepos\Unity Net Demo\Dotnet Server\TcpServerAsync\bin\Debug\net6.0\TcpServerAsync.runtimeconfig.json
+D:\__MyPrograms\__Repos\__MyRepos\Unity Net Demo\Dotnet Server\TcpServerAsync\bin\Debug\net6.0\TcpServerAsync.dll
+D:\__MyPrograms\__Repos\__MyRepos\Unity Net Demo\Dotnet Server\TcpServerAsync\bin\Debug\net6.0\TcpServerAsync.pdb
+D:\__MyPrograms\__Repos\__MyRepos\Unity Net Demo\Dotnet Server\TcpServerAsync\obj\Debug\net6.0\TcpServerAsync.csproj.AssemblyReference.cache
+D:\__MyPrograms\__Repos\__MyRepos\Unity Net Demo\Dotnet Server\TcpServerAsync\obj\Debug\net6.0\TcpServerAsync.GeneratedMSBuildEditorConfig.editorconfig
+D:\__MyPrograms\__Repos\__MyRepos\Unity Net Demo\Dotnet Server\TcpServerAsync\obj\Debug\net6.0\TcpServerAsync.AssemblyInfoInputs.cache
+D:\__MyPrograms\__Repos\__MyRepos\Unity Net Demo\Dotnet Server\TcpServerAsync\obj\Debug\net6.0\TcpServerAsync.AssemblyInfo.cs
+D:\__MyPrograms\__Repos\__MyRepos\Unity Net Demo\Dotnet Server\TcpServerAsync\obj\Debug\net6.0\TcpServerAsync.csproj.CoreCompileInputs.cache
+D:\__MyPrograms\__Repos\__MyRepos\Unity Net Demo\Dotnet Server\TcpServerAsync\obj\Debug\net6.0\TcpServerAsync.dll
+D:\__MyPrograms\__Repos\__MyRepos\Unity Net Demo\Dotnet Server\TcpServerAsync\obj\Debug\net6.0\refint\TcpServerAsync.dll
+D:\__MyPrograms\__Repos\__MyRepos\Unity Net Demo\Dotnet Server\TcpServerAsync\obj\Debug\net6.0\TcpServerAsync.pdb
+D:\__MyPrograms\__Repos\__MyRepos\Unity Net Demo\Dotnet Server\TcpServerAsync\obj\Debug\net6.0\TcpServerAsync.genruntimeconfig.cache
+D:\__MyPrograms\__Repos\__MyRepos\Unity Net Demo\Dotnet Server\TcpServerAsync\obj\Debug\net6.0\ref\TcpServerAsync.dll

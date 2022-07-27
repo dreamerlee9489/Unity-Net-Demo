@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\__MyPrograms\\C#\\LearnNet\\UdpServer\\UdpServer.csproj",
+      "projectUniqueName": "D:\\__MyPrograms\\__Repos\\__MyRepos\\Unity Net Demo\\Dotnet Server\\UdpServer\\UdpServer.csproj",
       "projectName": "UdpServer",
-      "projectPath": "D:\\__MyPrograms\\C#\\LearnNet\\UdpServer\\UdpServer.csproj",
+      "projectPath": "D:\\__MyPrograms\\__Repos\\__MyRepos\\Unity Net Demo\\Dotnet Server\\UdpServer\\UdpServer.csproj",
       "packagesPath": "C:\\Users\\Dreamer\\.nuget\\packages\\",
-      "outputPath": "D:\\__MyPrograms\\C#\\LearnNet\\UdpServer\\obj\\",
+      "outputPath": "D:\\__MyPrograms\\__Repos\\__MyRepos\\Unity Net Demo\\Dotnet Server\\UdpServer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dreamer\\AppData\\Roaming\\NuGet\\NuGet.Config",

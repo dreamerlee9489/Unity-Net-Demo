@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FvW3K7/6A2AtOMTcM5x/BCSVoE4IDWp1bkhR1wlQ5Ed8SegFCn23ut944NBVjRrIUfMUAlg7cbJ5SSTPx4wOCg==",
+  "dgSpecHash": "rUEhXm+VIAizirwYwbUmHauQsIZ98ayh5T+yEz+kMK9zHMqnRLaZ5vpnvYEym/nbBGfaJHi3xRH/3CngWoyb7g==",
   "success": true,
-  "projectFilePath": "D:\\__MyPrograms\\C#\\LearnNet\\TcpServer\\TcpServer.csproj",
+  "projectFilePath": "D:\\__MyPrograms\\__Repos\\__MyRepos\\Unity Net Demo\\Dotnet Server\\TcpServer\\TcpServer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

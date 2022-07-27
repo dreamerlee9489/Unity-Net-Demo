@@ -13,3 +13,18 @@ D:\__MyPrograms\C#\LearnNet\UdpServerAsync\obj\Debug\net6.0\refint\UdpServerAsyn
 D:\__MyPrograms\C#\LearnNet\UdpServerAsync\obj\Debug\net6.0\UdpServerAsync.pdb
 D:\__MyPrograms\C#\LearnNet\UdpServerAsync\obj\Debug\net6.0\UdpServerAsync.genruntimeconfig.cache
 D:\__MyPrograms\C#\LearnNet\UdpServerAsync\obj\Debug\net6.0\ref\UdpServerAsync.dll
+D:\__MyPrograms\__Repos\__MyRepos\Unity Net Demo\Dotnet Server\UdpServerAsync\bin\Debug\net6.0\UdpServerAsync.exe
+D:\__MyPrograms\__Repos\__MyRepos\Unity Net Demo\Dotnet Server\UdpServerAsync\bin\Debug\net6.0\UdpServerAsync.deps.json
+D:\__MyPrograms\__Repos\__MyRepos\Unity Net Demo\Dotnet Server\UdpServerAsync\bin\Debug\net6.0\UdpServerAsync.runtimeconfig.json
+D:\__MyPrograms\__Repos\__MyRepos\Unity Net Demo\Dotnet Server\UdpServerAsync\bin\Debug\net6.0\UdpServerAsync.dll
+D:\__MyPrograms\__Repos\__MyRepos\Unity Net Demo\Dotnet Server\UdpServerAsync\bin\Debug\net6.0\UdpServerAsync.pdb
+D:\__MyPrograms\__Repos\__MyRepos\Unity Net Demo\Dotnet Server\UdpServerAsync\obj\Debug\net6.0\UdpServerAsync.csproj.AssemblyReference.cache
+D:\__MyPrograms\__Repos\__MyRepos\Unity Net Demo\Dotnet Server\UdpServerAsync\obj\Debug\net6.0\UdpServerAsync.GeneratedMSBuildEditorConfig.editorconfig
+D:\__MyPrograms\__Repos\__MyRepos\Unity Net Demo\Dotnet Server\UdpServerAsync\obj\Debug\net6.0\UdpServerAsync.AssemblyInfoInputs.cache
+D:\__MyPrograms\__Repos\__MyRepos\Unity Net Demo\Dotnet Server\UdpServerAsync\obj\Debug\net6.0\UdpServerAsync.AssemblyInfo.cs
+D:\__MyPrograms\__Repos\__MyRepos\Unity Net Demo\Dotnet Server\UdpServerAsync\obj\Debug\net6.0\UdpServerAsync.csproj.CoreCompileInputs.cache
+D:\__MyPrograms\__Repos\__MyRepos\Unity Net Demo\Dotnet Server\UdpServerAsync\obj\Debug\net6.0\UdpServerAsync.dll
+D:\__MyPrograms\__Repos\__MyRepos\Unity Net Demo\Dotnet Server\UdpServerAsync\obj\Debug\net6.0\refint\UdpServerAsync.dll
+D:\__MyPrograms\__Repos\__MyRepos\Unity Net Demo\Dotnet Server\UdpServerAsync\obj\Debug\net6.0\UdpServerAsync.pdb
+D:\__MyPrograms\__Repos\__MyRepos\Unity Net Demo\Dotnet Server\UdpServerAsync\obj\Debug\net6.0\UdpServerAsync.genruntimeconfig.cache
+D:\__MyPrograms\__Repos\__MyRepos\Unity Net Demo\Dotnet Server\UdpServerAsync\obj\Debug\net6.0\ref\UdpServerAsync.dll

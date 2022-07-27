@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ce27E0e86iHXbp+29QP2hcDiyo5Kh5dj5EiFKQ+n1+o71yowgfOo9T5g6T7rSWKZw/ChzVMki2i6BTcwU2nvfg==",
+  "dgSpecHash": "UJRSzSG0BQEqxgw1JRkE4G6/7BuMf7q6vsJL/hEYQaFYk7Bdv+O9aWanc1ZVQm2K+VLzgUqA95jRq8pSILQU0Q==",
   "success": true,
-  "projectFilePath": "D:\\__MyPrograms\\C#\\LearnNet\\UdpServer\\UdpServer.csproj",
+  "projectFilePath": "D:\\__MyPrograms\\__Repos\\__MyRepos\\Unity Net Demo\\Dotnet Server\\UdpServer\\UdpServer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

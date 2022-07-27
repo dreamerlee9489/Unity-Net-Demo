@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\__MyPrograms\\C#\\LearnNet\\TcpServer\\TcpServer.csproj",
+      "projectUniqueName": "D:\\__MyPrograms\\__Repos\\__MyRepos\\Unity Net Demo\\Dotnet Server\\TcpServer\\TcpServer.csproj",
       "projectName": "TcpServer",
-      "projectPath": "D:\\__MyPrograms\\C#\\LearnNet\\TcpServer\\TcpServer.csproj",
+      "projectPath": "D:\\__MyPrograms\\__Repos\\__MyRepos\\Unity Net Demo\\Dotnet Server\\TcpServer\\TcpServer.csproj",
       "packagesPath": "C:\\Users\\Dreamer\\.nuget\\packages\\",
-      "outputPath": "D:\\__MyPrograms\\C#\\LearnNet\\TcpServer\\obj\\",
+      "outputPath": "D:\\__MyPrograms\\__Repos\\__MyRepos\\Unity Net Demo\\Dotnet Server\\TcpServer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dreamer\\AppData\\Roaming\\NuGet\\NuGet.Config",
