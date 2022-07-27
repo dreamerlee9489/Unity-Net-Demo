@@ -1,0 +1,15 @@
+D:\__MyPrograms\C#\LearnNet\TcpServer\bin\Debug\net6.0\TcpServer.exe
+D:\__MyPrograms\C#\LearnNet\TcpServer\bin\Debug\net6.0\TcpServer.deps.json
+D:\__MyPrograms\C#\LearnNet\TcpServer\bin\Debug\net6.0\TcpServer.runtimeconfig.json
+D:\__MyPrograms\C#\LearnNet\TcpServer\bin\Debug\net6.0\TcpServer.dll
+D:\__MyPrograms\C#\LearnNet\TcpServer\bin\Debug\net6.0\TcpServer.pdb
+D:\__MyPrograms\C#\LearnNet\TcpServer\obj\Debug\net6.0\TcpServer.csproj.AssemblyReference.cache
+D:\__MyPrograms\C#\LearnNet\TcpServer\obj\Debug\net6.0\TcpServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\__MyPrograms\C#\LearnNet\TcpServer\obj\Debug\net6.0\TcpServer.AssemblyInfoInputs.cache
+D:\__MyPrograms\C#\LearnNet\TcpServer\obj\Debug\net6.0\TcpServer.AssemblyInfo.cs
+D:\__MyPrograms\C#\LearnNet\TcpServer\obj\Debug\net6.0\TcpServer.csproj.CoreCompileInputs.cache
+D:\__MyPrograms\C#\LearnNet\TcpServer\obj\Debug\net6.0\TcpServer.dll
+D:\__MyPrograms\C#\LearnNet\TcpServer\obj\Debug\net6.0\refint\TcpServer.dll
+D:\__MyPrograms\C#\LearnNet\TcpServer\obj\Debug\net6.0\TcpServer.pdb
+D:\__MyPrograms\C#\LearnNet\TcpServer\obj\Debug\net6.0\TcpServer.genruntimeconfig.cache
+D:\__MyPrograms\C#\LearnNet\TcpServer\obj\Debug\net6.0\ref\TcpServer.dll

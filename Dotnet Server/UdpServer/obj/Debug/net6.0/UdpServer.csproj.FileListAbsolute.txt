@@ -1,0 +1,15 @@
+D:\__MyPrograms\C#\LearnNet\UdpServer\bin\Debug\net6.0\UdpServer.exe
+D:\__MyPrograms\C#\LearnNet\UdpServer\bin\Debug\net6.0\UdpServer.deps.json
+D:\__MyPrograms\C#\LearnNet\UdpServer\bin\Debug\net6.0\UdpServer.runtimeconfig.json
+D:\__MyPrograms\C#\LearnNet\UdpServer\bin\Debug\net6.0\UdpServer.dll
+D:\__MyPrograms\C#\LearnNet\UdpServer\bin\Debug\net6.0\UdpServer.pdb
+D:\__MyPrograms\C#\LearnNet\UdpServer\obj\Debug\net6.0\UdpServer.csproj.AssemblyReference.cache
+D:\__MyPrograms\C#\LearnNet\UdpServer\obj\Debug\net6.0\UdpServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\__MyPrograms\C#\LearnNet\UdpServer\obj\Debug\net6.0\UdpServer.AssemblyInfoInputs.cache
+D:\__MyPrograms\C#\LearnNet\UdpServer\obj\Debug\net6.0\UdpServer.AssemblyInfo.cs
+D:\__MyPrograms\C#\LearnNet\UdpServer\obj\Debug\net6.0\UdpServer.csproj.CoreCompileInputs.cache
+D:\__MyPrograms\C#\LearnNet\UdpServer\obj\Debug\net6.0\UdpServer.dll
+D:\__MyPrograms\C#\LearnNet\UdpServer\obj\Debug\net6.0\refint\UdpServer.dll
+D:\__MyPrograms\C#\LearnNet\UdpServer\obj\Debug\net6.0\UdpServer.pdb
+D:\__MyPrograms\C#\LearnNet\UdpServer\obj\Debug\net6.0\UdpServer.genruntimeconfig.cache
+D:\__MyPrograms\C#\LearnNet\UdpServer\obj\Debug\net6.0\ref\UdpServer.dll
