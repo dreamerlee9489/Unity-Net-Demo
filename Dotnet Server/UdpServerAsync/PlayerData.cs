@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 
 /// <summary>
-/// Íæ¼ÒÊı¾İÀà
+/// ç©å®¶æ•°æ®ç±»
 /// </summary>
 public class PlayerData : BaseData
 {
